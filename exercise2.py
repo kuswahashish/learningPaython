@@ -1,0 +1,6 @@
+name1 = input("Enter name 1 : ")
+c1 = input("Your fvrt color : ")
+name2 = input("Enter name 2 : ")
+c2 = input("Your fvrt color : ")
+print(name1+"'s fvrt color is "+c1)
+print(name2+"'s fvrt color is "+c2)

@@ -4,4 +4,5 @@ rating = '5*'
 name = 'Mosh'
 is_published = True
 print(name)
+print(is_published)
 
